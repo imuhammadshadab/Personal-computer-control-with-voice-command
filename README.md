@@ -1,2 +1,2 @@
 # Personal-computer-control-with-voice-command
-In this project, I have to control the personal computer, some functions through a voice command system.
+This project involves the use of a voice command system to control specific functions on a personal computer.
